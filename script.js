@@ -10,4 +10,5 @@ function compute()
 	}
 	else{
 		alert("enter the positive number");
+	}
 }
